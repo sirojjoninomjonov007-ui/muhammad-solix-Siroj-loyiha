@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-xg1068#m@p#neanf4_8xzpeu!2jy-di0=f8msxa6u4=^+c)*_d
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["https://todooapp.pythonanywhere.com/"]
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
